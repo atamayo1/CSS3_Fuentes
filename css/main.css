@@ -161,6 +161,7 @@ h1{
 	color:#FFF;
  	text-align: center;
   font-family: 'EmbossedBlackWideNormal';
+  text-shadow: 5px 5px 10px 10px #999;
 }
 h2{
 	font-size:1.8em;

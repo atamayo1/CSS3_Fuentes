@@ -159,7 +159,9 @@ article{
   -webkit-column-rule:solid;
   column-rule:solid;
 
+
   column-rule-color: #999;
+  text-align: justify;
 
 }
 footer{
